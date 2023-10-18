@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vologa3-Modul3", "Vologa3-Modul3\Vologa3-Modul3.csproj", "{2A4CB5D6-177B-4C6A-ABB0-C6265020738B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4CB5D6-177B-4C6A-ABB0-C6265020738B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4CB5D6-177B-4C6A-ABB0-C6265020738B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4CB5D6-177B-4C6A-ABB0-C6265020738B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4CB5D6-177B-4C6A-ABB0-C6265020738B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EAA2070-8F69-4498-82B1-4FBF091B8CAF}
+	EndGlobalSection
+EndGlobal
